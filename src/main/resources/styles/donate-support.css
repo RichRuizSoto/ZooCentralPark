@@ -6,9 +6,7 @@ main {
 }
 
 .body {
-    background-image: url('https://secure.wcs.org/files/wcs/Julie-Larsen-Maher_2563_Styans-Red-Panda_DIST_PPZ_11-02-15_hr.jpg');
-    background-size: cover;
-    background-position: right;
+    background-color: rgb(26, 26, 28);
 }
 
 
@@ -59,8 +57,9 @@ main {
 }
 
 .main {
-    background-color: transparent;
-    padding: 60px;
+    background-image: url('https://secure.wcs.org/files/wcs/Julie-Larsen-Maher_2563_Styans-Red-Panda_DIST_PPZ_11-02-15_hr.jpg');
+    background-size: cover;
+    background-position: right;    padding: 60px;
     color: black;
 }
 
